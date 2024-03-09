@@ -1,5 +1,5 @@
 # Projekt-Zespolowy
-Repozytorium utworzone na przedmiot zespołowy na zajęcia
+Repozytorium utworzone na przedmiot Projekt Zespołowy 
 ### ZESPÓŁ PROJEKTOWY SKŁADAJĄCY SIE Z DWÓCH OSÓB: Hieronim Bajowski i Robert Pietralik
 
 
