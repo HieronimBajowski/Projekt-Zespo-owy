@@ -20,3 +20,11 @@ Projekt będzie aplikacją w języku Python, która będzie śledzić nasze zada
 
 
 ![obraz](https://github.com/HieronimBajowski/Projekt-Zespo-owy/assets/106467648/117a3db8-7569-4c09-b45e-65dfce996115)
+
+
+###########################################
+
+Druga wersja aplikacji 
+
+Poprawienie kalendarza, dodanie poruszania się po kalendarzu dni, tygodni, miesięcy
+Tworzenie bazy danych do otrzymywania danych utworzonych wydarzeń
